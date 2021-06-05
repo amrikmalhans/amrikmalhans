@@ -2,7 +2,7 @@
 
 Some things to know about me before you scroll:
 
-- 🔭 I’m currently working at Cloutwallet(http://app.cloutwallet.io/) as a full-stack backend engineer.
+- 🔭 I’m currently working at [Cloutwallet](http://app.cloutwallet.io/) as a full-stack backend engineer.
 - 🌱 Things that I am currently learning includes GoLang and intermediate/advanced level TypeScript.
 - 👯 I’m open to collaborate on projects whether open-source or freelance.
 - 💬 Ask me anything about space! I am a cosmos enthusiast and I always keep an eye up there ;)  
