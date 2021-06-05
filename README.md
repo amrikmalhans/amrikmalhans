@@ -1,6 +1,6 @@
 ### Beep Boop! 👋
 
-Here are some ideas to get you started:
+Some things to know about me before you scroll:
 
 - 🔭 I’m currently working at @Cloutwallet as a full-stack backend engineer.
 - 🌱 Things that I am currently learning includes GoLang and intermediate/advanced level TypeScript.
