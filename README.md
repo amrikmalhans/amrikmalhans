@@ -1,4 +1,4 @@
-### Beep Boop! 👋
+<!-- ### Beep Boop! 👋
 
 Some things to know about me before you scroll:
 
@@ -9,3 +9,4 @@ Some things to know about me before you scroll:
 - 📫 You can reach me at Discord (AMRIK#6641) or email.
 - ⚡ Fun fact: Almost anything powered with electricity needs to be coded. Can you imagine?!
 
+ -->
